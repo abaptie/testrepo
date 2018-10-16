@@ -6,7 +6,7 @@
 
     <groupId>com.prohire</groupId>
     <artifactId>POLServiceDomain</artifactId>
-    <version>0.4-SNAPSHOT</version>
+    <version>0.5-SNAPSHOT</version>
 
     <parent>
         <groupId>com.prohire</groupId>
